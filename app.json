@@ -24,6 +24,11 @@
       "shortName": "Trinken",
       "themeColor": "#1E88E5",
       "backgroundColor": "#F2F7FB"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "33f67547-d39a-492d-9edd-f69cfd562ebd"
+      }
     }
   }
 }
