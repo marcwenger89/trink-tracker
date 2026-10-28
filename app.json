@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "trink-tracker",
+    "name": "Trink-Tracker",
     "slug": "trink-tracker",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -19,7 +19,11 @@
       "predictiveBackGestureEnabled": false
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/favicon.png",
+      "name": "Trink-Tracker",
+      "shortName": "Trinken",
+      "themeColor": "#1E88E5",
+      "backgroundColor": "#F2F7FB"
     }
   }
 }
